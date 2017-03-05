@@ -1,2 +1,2 @@
 # electron-app
-easy breezy editor
+easy breezy editor for learning
