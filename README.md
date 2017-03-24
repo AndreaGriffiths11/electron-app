@@ -1,4 +1,5 @@
-# electron-app
+## electron-app
 easy breezy editor for learning
-One day might grow up to but for now it does not look like this
-![editor](https://goo.gl/images/AjVrsW)
+One day this baby editor will grow up.
+
+<a href="http://tinypic.com?ref=zygdgi" target="_blank"><img src="http://i67.tinypic.com/zygdgi.jpg" border="0" alt="Image and video hosting by TinyPic"></a>
